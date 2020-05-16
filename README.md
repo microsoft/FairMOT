@@ -141,9 +141,6 @@ python demo.py mot --load_model ../models/all_hrnet_v2_w18.pth --arch hrnet_18 -
 ```
 --conf_thres can be set from 0.3 to 0.7 depending on your own videos.
 
-## Acknowledgement
-A large part of the code is borrowed from [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) and [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet). Thanks for their wonderful works.
-
 ## Citation
 
 ```
