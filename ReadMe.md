@@ -23,7 +23,7 @@ Requirements
 7. You can input a raw video and get the demo video by running src/demo.py and get the mp4 format of the demo video:
     - !python demo.py mot --load_model lib/models/all_dla34.pth
 8. Results of this process can be found in 'FairMOT/results'  folder 
-   Working Colab can be found [here](https://colab.research.google.com/drive/1j-UobIDfZBm5aW1TPi2t55WYxVpySab4#scrollTo=_XoZXSPASyGA) 
+   Working Colab can be found [here](https://colab.research.google.com/drive/1j-UobIDfZBm5aW1TPi2t55WYxVpySab4?usp=sharing) 
 
 
     
