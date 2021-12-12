@@ -1,4 +1,4 @@
-**Step By Step Installation of FairMOT  on Linux Environment : Case Study- Google Colab**
+**Step By Step Installation of FairMOT  on Linux Environment **
 <br/>
 
 Requirements 
